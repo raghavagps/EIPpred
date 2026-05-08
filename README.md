@@ -7,7 +7,8 @@ EIPpred is also available as a web server at https://webs.iiitd.edu.in/raghava/e
 
 ## Reference
 <a href="https://doi.org/10.1038/s41598-025-86638-z">Bajiya, N., Kumar, N. & Raghava, G.P.S. Prediction of inhibitory peptides against E. coli with desired MIC value. Sci Rep 15, 4672 (2025). https://doi.org/10.1038/s41598-025-86638-z</a>
-
+## Zenodo
+https://doi.org/10.5281/zenodo.19876951
 ## PIP installation
 The PIP version is also available for easy installation and usage of this tool. The following command is required to install the package
 
